@@ -1,0 +1,50 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial,sans-serif;
+}
+h1{
+    padding: 15px;
+    margin-right:20px;
+    
+}
+.inputtype{
+    width: 50%;
+    padding: 8px;
+    margin:18px;
+    border-radius: 5px;
+    border: 1px solid #667292;
+}
+.col-12 {
+    margin-bottom: 10px;
+    width: 95%;
+}
+.col-12 label {
+    display: block;
+    margin:0px 15px;
+}
+.submit{
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    background-color: #667292; 
+    color: white;
+     border: none;
+     margin:0px 15px;
+}
+.navbar,a{
+    height: 50%;
+    width: 95%;
+    padding: 10px;
+    margin: 1px 22px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #667292;
+    border-radius: 8px;
+    text-decoration: none;
+    color: black;
+}
+.color_red{
+    color: red;
+}
